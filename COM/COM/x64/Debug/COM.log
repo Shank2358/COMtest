@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  COM.cpp
+  COM.vcxproj -> E:\visual studio 2017\Projects\COM\x64\Debug\COM.exe
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(1776,5): warning MSB3073: 命令“"E:\visual studio 2017\Projects\COM\x64\Debug\COM.exe" /RegServer”已退出，代码为 -1073741819。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(1782,5): error MSB8011: 未能注册输出。请尝试启用“逐用户重定向”，或者使用提升的权限从命令提示符处注册该组件。
